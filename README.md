@@ -1,0 +1,1 @@
+# cvnd-Normalized-Sense-Function
